@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sejam bem-vindos ao meu perfil. 👋
 
-<!--
-**lincolnsartorelo/lincolnsartorelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é **Lincoln**.
+- Sou aluno da escola Isac de Dracena.
+- Tenho aulas de Tecnologia com o Professor Jocimar.
+- Estamos desenvolvendo projetos através das plataformas [scratch](https://scratch.mit.edu/) e [JavaScript](https://editor.p5js.org/).
+- Usarei este espaço para publicar alguns de meus projetos.
 
-Here are some ideas to get you started:
+## Podem usar este espaço para entrarem em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001113984430sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/6y9g_s39dCcAAAAM/the-office.gif)
+
+
+
+
